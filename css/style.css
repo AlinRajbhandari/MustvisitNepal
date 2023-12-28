@@ -178,3 +178,61 @@ footer{
 .fbox ul li a:hover{
     color:#4d484e;
 }
+#content
+{
+    padding: 30px 0;
+}
+
+#content h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: red;
+    margin-bottom: 10px;
+}
+.days{
+    background-color: steelblue;
+    color: white;
+    padding: 10px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.medium{
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.nature{
+    background-color: lightblue;
+    color: white;
+    padding: 10px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+#content img{
+    text-align: left;
+    display: block;
+    margin: 20px;
+}
+
+.itinerary{
+    
+}
+
+.itinerary h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.itinerary p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.conatact_boxes{
+    display: flex;
+}
+.map,form{
+    
+}
